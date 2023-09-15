@@ -27,7 +27,15 @@ The project is about predicting the views and revenue of you tube videos using M
 3. We decided that absolute percent error was abetter loss function.
 4. After using Keras tuner best model has mean absolute percentage error of 37.8564 during validation.
 
+# Contributors
+ Aaron Schneberger https://github.com/aarschne
+ Ashok Goyal 
+ Navyasri Pusuluri
+ Roli Singh https://github.com/rolisingh10
 
+ # Acknowledgements
+   We would like to thank our instructor Shaun Mcpeck and teaching assistant William Vann for their help and guidance.
+ 
 
 
 
