@@ -24,14 +24,14 @@ The project is about predicting the views and revenue of you tube videos using M
 # Results
 1. In the first attempt test data had mean squared error of 7036.71 and Root mean error was 83.89. The mean of the revenue column is 132.21, and the max is 7963.86.
 2. We had some overfitting in the first attempt.![image](https://github.com/aarschne/project4/assets/128007832/bb32593e-70ff-4b6f-b5de-831e3bb4b8bb)
-3. We decided that absolute percent error was abetter loss function.
+3. We decided that absolute percent error was a better loss function.
 4. After using Keras tuner best model has mean absolute percentage error of 37.8564 during validation.
 
 # Contributors
- Aaron Schneberger https://github.com/aarschne
- Ashok Goyal 
- Navyasri Pusuluri
- Roli Singh https://github.com/rolisingh10
+ * Aaron Schneberger https://github.com/aarschne
+ * Ashok Goyal 
+ * Navyasri Pusuluri
+ * Roli Singh https://github.com/rolisingh10
 
  # Acknowledgements
    We would like to thank our instructor Shaun Mcpeck and teaching assistant William Vann for their help and guidance.
