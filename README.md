@@ -13,8 +13,8 @@ The project is about predicting the views and revenue of you tube videos using M
 
 3. Clustering is done using K- Means Clustering and Agglomerative Clustering.
 4. In the next step, the Deep Learning Regression model is developed for the same data.
-5. The cost per 1000 views column is multiplied by number of views and then divided by 1000. For the label the same thing is done but with Revenue per 1000 views.![image](https://github.com/aarschne/project4/assets/128007832/af375df8-56f6-4330-8540-39d76d73e0ef
- 
+5. The cost per 1000 views column is multiplied by number of views and then divided by 1000. For the label the same thing is done but with Revenue per 1000 views.![image](https://github.com/aarschne/project4/assets/128007832/56337f4c-1563-42c4-a6aa-275423cd02ce)
+
 6. The data is  preprocessed into a training and testing dataset.
 7. The data is standardized and Keras Regressor model is defined with six hidden layers and an output layer with one unit.
 8. The model is compiled and trained and mean absolute percent error of 424.52 is achieved on the test data.
@@ -30,7 +30,7 @@ The project is about predicting the views and revenue of you tube videos using M
 # Contributors
  * Aaron Schneberger https://github.com/aarschne
  * Ashok Goyal 
- * Navyasri Pusuluri
+ * Navyasri Pusuluri https://github.com/pusuluri16
  * Roli Singh https://github.com/rolisingh10
 
  # Acknowledgements
