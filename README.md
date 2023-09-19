@@ -29,7 +29,7 @@ The project is about predicting the views and revenue of you tube videos using M
 
 # Contributors
  * Aaron Schneberger https://github.com/aarschne
- * Ashok Goyal 
+ * Ashok Goyal  https://github.com/goyal6624
  * Navyasri Pusuluri https://github.com/pusuluri16
  * Roli Singh https://github.com/rolisingh10
 
